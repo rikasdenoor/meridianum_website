@@ -1,0 +1,269 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="meridianum.eu" resolutions="1x" timestamp="1582488136145">
+  <folder name="css">
+    <file name="site_global.css" crc="3797206394"/>
+    <file name="master_a-master.css" crc="4280152831" ref="meridianum-ensemble---concerts:meridianum-ensemble---bios:meridianum-ensemble---live-cd:index:meridianum-ensemble---workshops"/>
+    <file name="nomq_preview_master_a-master.css" crc="8121354" ref="meridianum-ensemble---concerts:meridianum-ensemble---bios:meridianum-ensemble---live-cd:index:meridianum-ensemble---workshops"/>
+    <file name="meridianum-ensemble---concerts.css" crc="3807550933" ref="meridianum-ensemble---concerts"/>
+    <file name="nomq_meridianum-ensemble---concerts.css" crc="3965057259" ref="meridianum-ensemble---concerts"/>
+    <file name="meridianum-ensemble---bios.css" crc="30766280" ref="meridianum-ensemble---bios"/>
+    <file name="nomq_meridianum-ensemble---bios.css" crc="59421344" ref="meridianum-ensemble---bios"/>
+    <file name="iefonts_meridianum-ensemble---bios.css" crc="3824530138" ref="meridianum-ensemble---bios"/>
+    <file name="meridianum-ensemble---live-cd.css" crc="372431161" ref="meridianum-ensemble---live-cd"/>
+    <file name="nomq_meridianum-ensemble---live-cd.css" crc="410570809" ref="meridianum-ensemble---live-cd"/>
+    <file name="iefonts_meridianum-ensemble---live-cd.css" crc="3824530138" ref="meridianum-ensemble---live-cd"/>
+    <file name="index.css" crc="3888781525" ref="index"/>
+    <file name="nomq_index.css" crc="301079514" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="meridianum-ensemble---workshops.css" crc="3798834054" ref="meridianum-ensemble---workshops"/>
+    <file name="nomq_meridianum-ensemble---workshops.css" crc="3941979712" ref="meridianum-ensemble---workshops"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont.woff" crc="462672289"/>
+    <file name="fontawesome-webfont.eot" crc="415170694"/>
+    <file name="fontawesome-webfont.svg" crc="3771442179"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:meridianum-ensemble---bios:meridianum-ensemble---concerts:meridianum-ensemble---workshops:meridianum-ensemble---live-cd"/>
+    <file name="museutils.js" crc="3803043152" ref="index:meridianum-ensemble---bios:meridianum-ensemble---concerts:meridianum-ensemble---workshops:meridianum-ensemble---live-cd"/>
+    <file name="whatinput.js" crc="86476730" ref="index:meridianum-ensemble---bios:meridianum-ensemble---concerts:meridianum-ensemble---workshops:meridianum-ensemble---live-cd"/>
+    <file name="museconfig.js" crc="380897831" ref="index:meridianum-ensemble---bios:meridianum-ensemble---concerts:meridianum-ensemble---workshops:meridianum-ensemble---live-cd"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:meridianum-ensemble---bios:meridianum-ensemble---live-cd"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:meridianum-ensemble---bios:meridianum-ensemble---concerts:meridianum-ensemble---workshops:meridianum-ensemble---live-cd"/>
+    <file name="webpro.js" crc="242022427" ref="index:meridianum-ensemble---workshops"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:meridianum-ensemble---workshops"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:meridianum-ensemble---workshops"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:meridianum-ensemble---workshops"/>
+    <file name="form_check.php" crc="62300408" ref="index"/>
+    <file name="form_process.php" crc="91775217" ref="index"/>
+    <file name="form-u42535.php" crc="31800116" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:meridianum-ensemble---bios:meridianum-ensemble---concerts:meridianum-ensemble---workshops:meridianum-ensemble---live-cd"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:meridianum-ensemble---bios:meridianum-ensemble---concerts:meridianum-ensemble---workshops:meridianum-ensemble---live-cd"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:meridianum-ensemble---bios:meridianum-ensemble---concerts:meridianum-ensemble---workshops:meridianum-ensemble---live-cd"/>
+    <file name="require.js" crc="4157109226" ref="index:meridianum-ensemble---bios:meridianum-ensemble---concerts:meridianum-ensemble---workshops:meridianum-ensemble---live-cd"/>
+  </folder>
+  <folder name="images">
+    <file name="soufian1-u6500-fr.jpg" crc="4207858200" ref="index:meridianum-ensemble---bios"/>
+    <file name="grisharpa3-u6842-fr.jpg" crc="288045692" ref="index:meridianum-ensemble---bios"/>
+    <file name="nuno-u7222-fr.jpg" crc="4081229545" ref="index:meridianum-ensemble---bios"/>
+    <file name="ricardo4-u4612-fr.jpg" crc="58784047" ref="index:meridianum-ensemble---bios"/>
+    <file name="louisb-w-u22405-fr.jpg" crc="4111457997" ref="index:meridianum-ensemble---bios"/>
+    <file name="steveb-w-u22447-fr.jpg" crc="4237684023" ref="index:meridianum-ensemble---bios"/>
+    <file name="blank.gif" crc="4208392903" ref="index:meridianum-ensemble---bios:meridianum-ensemble---concerts:meridianum-ensemble---workshops:meridianum-ensemble---live-cd"/>
+    <file name="meridianumcdfinal.jpg" crc="4096133788" ref="index:meridianum-ensemble---live-cd">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="meridianum-ensemble---live-cd" alt=""/>
+      <caption webpage="meridianum-ensemble---live-cd" alt=""/>
+      <caption webpage="meridianum-ensemble---live-cd" alt=""/>
+    </file>
+    <file name="all-u7603-fr.png" crc="4156569168" ref="index"/>
+    <file name="logo_final_meridianum-u9104-fr.png" crc="4122145274" ref="index"/>
+    <file name="20190211_180434(1).jpg" crc="290902363" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="soufian1-u6500-fr2.jpg" crc="144450364" ref="index:meridianum-ensemble---bios"/>
+    <file name="grisharpa3-u6842-fr2.jpg" crc="35821973" ref="index:meridianum-ensemble---bios"/>
+    <file name="nuno-u7222-fr2.jpg" crc="477476754" ref="index:meridianum-ensemble---bios"/>
+    <file name="ricardo4-u4612-fr2.jpg" crc="3990714168" ref="index:meridianum-ensemble---bios"/>
+    <file name="louisb-w-u22405-fr2.jpg" crc="489528743" ref="index:meridianum-ensemble---bios"/>
+    <file name="steveb-w-u22447-fr2.jpg" crc="515361061" ref="index:meridianum-ensemble---bios"/>
+    <file name="all-u7603-fr.jpg" crc="379975956" ref="index"/>
+    <file name="ricardo4.jpg" crc="126980925" ref="index:meridianum-ensemble---bios">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="meridianum-ensemble---bios" alt=""/>
+      <caption webpage="meridianum-ensemble---bios" alt=""/>
+    </file>
+    <file name="soufian1.jpg" crc="4028123439" ref="index:meridianum-ensemble---bios">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="meridianum-ensemble---bios" alt=""/>
+      <caption webpage="meridianum-ensemble---bios" alt=""/>
+    </file>
+    <file name="grisharpa3.jpg" crc="3967941813" ref="index:meridianum-ensemble---bios">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="meridianum-ensemble---bios" alt=""/>
+      <caption webpage="meridianum-ensemble---bios" alt=""/>
+    </file>
+    <file name="nuno.jpg" crc="160119757" ref="index:meridianum-ensemble---bios">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="meridianum-ensemble---bios" alt=""/>
+      <caption webpage="meridianum-ensemble---bios" alt=""/>
+    </file>
+    <file name="louisb-w.jpg" crc="48490618" ref="index:meridianum-ensemble---bios">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="meridianum-ensemble---bios" alt=""/>
+      <caption webpage="meridianum-ensemble---bios" alt=""/>
+    </file>
+    <file name="steveb-w.jpg" crc="3903714037" ref="index:meridianum-ensemble---bios">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="meridianum-ensemble---bios" alt=""/>
+      <caption webpage="meridianum-ensemble---bios" alt=""/>
+    </file>
+    <file name="all-u7603-fr2.png" crc="216907358" ref="index"/>
+    <file name="meridianumcdfinal-u41993-fr.jpg" crc="339229500" ref="index"/>
+    <file name="all-u7603-fr3.png" crc="255608377" ref="index"/>
+    <file name="katyb-w1-u30090-fr.jpg" crc="113757754" ref="meridianum-ensemble---bios"/>
+    <file name="katyb-w1-u30090-fr2.jpg" crc="3936963735" ref="meridianum-ensemble---bios"/>
+    <file name="katyb-w1.jpg" crc="202968737" ref="meridianum-ensemble---bios">
+      <caption webpage="meridianum-ensemble---bios" alt=""/>
+      <caption webpage="meridianum-ensemble---bios" alt=""/>
+    </file>
+    <file name="dscn0082.jpg" crc="4088935920" seo="true" ref="meridianum-ensemble---workshops">
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+    </file>
+    <file name="dscn0092.jpg" crc="149687810" seo="true" ref="meridianum-ensemble---workshops">
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+    </file>
+    <file name="dscn0096.jpg" crc="4064401701" seo="true" ref="meridianum-ensemble---workshops">
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+    </file>
+    <file name="dscn0097.jpg" crc="317039529" seo="true" ref="meridianum-ensemble---workshops">
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+    </file>
+    <file name="meridian ensemble-60.jpg" crc="135920739" seo="true" ref="meridianum-ensemble---workshops">
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+    </file>
+    <file name="meridian ensemble-62.jpg" crc="247239541" seo="true" ref="meridianum-ensemble---workshops">
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+    </file>
+    <file name="meridian ensemble-64.jpg" crc="369632114" seo="true" ref="meridianum-ensemble---workshops">
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+    </file>
+    <file name="meridian ensemble-69.jpg" crc="4263263760" seo="true" ref="meridianum-ensemble---workshops">
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+    </file>
+    <file name="meridian ensemble-76.jpg" crc="3976171860" seo="true" ref="meridianum-ensemble---workshops">
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+    </file>
+    <file name="meridian ensemble-77.jpg" crc="3959434219" seo="true" ref="meridianum-ensemble---workshops">
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+    </file>
+    <file name="meridian ensemble-81.jpg" crc="46686886" seo="true" ref="meridianum-ensemble---workshops">
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+    </file>
+    <file name="meridian ensemble-88.jpg" crc="4083176769" seo="true" ref="meridianum-ensemble---workshops">
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+    </file>
+    <file name="meridian ensemble-91.jpg" crc="3814055012" seo="true" ref="meridianum-ensemble---workshops">
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+    </file>
+    <file name="close_icon.png" crc="442690100" ref="meridianum-ensemble---workshops">
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+      <caption webpage="meridianum-ensemble---workshops" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="meridianum-ensemble---workshops"/>
+    <file name="meridianumcdfinal-u40458-fr.jpg" crc="390755419" ref="meridianum-ensemble---live-cd"/>
+  </folder>
+  <file name="index.html" crc="233087260" seo="true" mt="1582487691535" redirect="true"/>
+  <file name="meridianum-ensemble---bios.html" crc="4042744901" seo="true" mt="1582481167352" redirect="true"/>
+  <file name="meridianum-ensemble---concerts.html" crc="3914748182" seo="true" mt="1582481167352" redirect="true"/>
+  <file name="meridianum-ensemble---workshops.html" crc="147263374" seo="true" mt="1582481167352" redirect="true"/>
+  <file name="meridianum-ensemble---live-cd.html" crc="382128976" seo="true" mt="1582481167352" redirect="true"/>
+</manifest>
